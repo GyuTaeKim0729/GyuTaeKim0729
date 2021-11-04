@@ -1,6 +1,6 @@
-<a>Hi there! I`m junior fullstack developer</a>
-<a>I`m always ready to soak into everything || everywhere</a>
-<a>Maybe if you give me courage, I can make heaven!</a>
+Hi there! I`m junior fullstack developer
+I`m always ready to soak into everything || everywhere
+Maybe if you give me courage, I can make heaven!
 
 
 <h3>Skills</h3>
