@@ -1,8 +1,6 @@
-<div>
- <a>Hi there! I'm junior fullstack developer</a>
- <a>I'm always ready to soak into everything || everywhere</a>
- <a>Maybe if you give me courage, I can make heaven!</a>
-</div>
+ <p>Hi there! I'm junior fullstack developer</p>
+ <p>I'm always ready to soak into everything || everywhere</p>
+ <p>Maybe if you give me courage, I can make heaven!</p>
 
 
 <h3>Skills</h3>
