@@ -29,10 +29,8 @@
 </p>
 
 #### ETC
-<p>
  - PCB Design ( Altium, EasyEDA, Kicad )
  - Arduino
  - Odroid
  - Raspberry pi
  - Notion
-</p>
