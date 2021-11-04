@@ -1,5 +1,5 @@
-Hi there! I`m junior fullstack developer
-I`m always ready to soak into everything || everywhere
+Hi there! I'm junior fullstack developer
+I'm always ready to soak into everything || everywhere
 Maybe if you give me courage, I can make heaven!
 
 
