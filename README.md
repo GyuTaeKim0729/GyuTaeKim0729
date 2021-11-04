@@ -3,7 +3,7 @@
  I'm always ready to soak into everything || everywhere<br/><br/>
  Maybe if you give me courage, I can make heaven!
 </p>
-
+ 
 
 ### Skills
 #### Languages & Platforms
@@ -23,9 +23,16 @@
  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
-</p> 
+ <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+</p>
 
-### ETC
+#### ETC
 <p>
- -Logic Circuit
- </p>
+ - PCB Design ( Altium, EasyEDA, Kicad )
+ - Arduino
+ - Odroid
+ - Raspberry pi
+ - Notion
+</p>
