@@ -1,4 +1,4 @@
-Hi there! I'm junior fullstack developer
+Hi there! I'm junior fullstack developer\n
 I'm always ready to soak into everything || everywhere
 Maybe if you give me courage, I can make heaven!
 
