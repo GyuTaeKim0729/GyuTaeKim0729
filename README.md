@@ -1,4 +1,6 @@
-# Hi there 👋
+<h3 align="center">Gyu Tae Kim</h3>
+<h3 align="center">Skills</h3>
+
 <div>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
