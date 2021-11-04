@@ -1,5 +1,5 @@
  <p>
- 😄 Hi there! I'm <b>junior fullstack developer 🌱</b><br/>
+ 😄 Hi there! I'm <b>junior full stack developer 🌱</b><br/>
  I'm always ready to soak into everything || everywhere<br/><br/>
  Maybe if you give me courage, I can make heaven!
 </p>
