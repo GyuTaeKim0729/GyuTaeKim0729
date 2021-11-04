@@ -1,4 +1,4 @@
-<h3>Gyu Tae Kim</h3>
+<h1>hi</h1>
 <h3>Skills</h3>
 
 <div>
