@@ -1,4 +1,9 @@
-<a>hi</a>
+<a>Hi there! I`m junior fullstack developer</a>
+<a>I`m always ready to soak into everything || everywhere</a>
+<a></a>
+<a>Maybe if you give me courage, I can make heaven!</a>
+
+
 <h3>Skills</h3>
 
 <div>
